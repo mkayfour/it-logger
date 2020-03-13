@@ -4,21 +4,21 @@
       "id": 1,
       "message": "Changed hard drive on workstation 001",
       "attention": false,
-      "date": "03-02-2019",
+      "date": "03/02/2019",
       "tech": "Sam Smith"
     },
     {
       "id": 2,
       "message": "Changed hard drive on workstation 002",
-      "attention": false,
-      "date": "03-02-2019",
+      "attention": true,
+      "date": "03/02/2019",
       "tech": "Sam Smith"
     },
     {
       "id": 3,
       "message": "Changed hard drive on workstation 003",
       "attention": false,
-      "date": "03-02-2019",
+      "date": "03/02/2019",
       "tech": "Sam Smith"
     }
   ],
